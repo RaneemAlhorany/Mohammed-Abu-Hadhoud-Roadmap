@@ -12,7 +12,7 @@
 **Description:**
 Learn the fundamentals of programming, including variables, data types, operators, conditions, loops, functions, arrays, and build a solid programming foundation.
 
-► **Repository:** https://github.com/YourUsername/Programming-Fundamentals
+► **Repository:** Coming Soon
 
 ---
 
