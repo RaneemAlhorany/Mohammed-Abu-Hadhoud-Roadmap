@@ -28,9 +28,12 @@ Develop problem-solving skills through algorithmic thinking, flowcharts, pseudoc
 ## 📘 Course 03 — Coming Soon
 
 **Description:**
-This repository will contain the next course in Mohammed Abu-Hadhoud's roadmap.
+This repository contains my solutions and implementations for Algorithms & Problem Solving Level 3.
 
-► **Repository:** Coming Soon
+The primary goal of this course is to solve more advanced programming problems while developing efficient algorithms, improving analytical thinking, and writing professional-quality C++ code.
+
+
+► **Repository:** [https://github.com/RaneemAlhorany/03---Programming-Using-C---Level-1](https://github.com/RaneemAlhorany/03---Programming-Using-C---Level-1)
 
 ---
 
