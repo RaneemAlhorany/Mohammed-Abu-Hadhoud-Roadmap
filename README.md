@@ -1,156 +1,104 @@
+
 # 🚀 Mohammed Abu-Hadhoud Roadmap
 
-<!-- ================= BADGE ================= -->
-
-<p align="center">
-  <img src="YOUR_IMAGE_OR_LOGO" width="180">
-</p>
+> A complete collection of Mohammed Abu-Hadhoud courses, organized in one place.
 
 ---
 
-# 📚 Programming Fundamentals
+# 📚 Courses
 
-<details>
-<summary>📖 Level 01 - Programming Foundations</summary>
+## 📖 Course 01 — Programming Fundamentals
+**Description:** Learn the basics of programming, problem solving, variables, loops, functions, and build a strong foundation.
 
-### 📘 Course 01
-► Notes
-
-### 📘 Course 02
-► Notes
-
-### 📘 Course 03
-► Notes
-
-</details>
+► **Repository:** https://github.com/YourUsername/AbuHudhud-Course-01
 
 ---
 
-# 💻 C++
+## 💻 Course 02 — Object-Oriented Programming (OOP)
+**Description:** LSolve 50 carefully selected programming problems to strengthen problem-solving skills, logical thinking, algorithmic thinking, and programming fundamentals before moving to advanced topics.
 
-<details>
-<summary>📦 View C++ Courses</summary>
-
-### 🚀 Level 02
-
-- C++ Basics
-- OOP
-- STL
-- Projects
-
-</details>
+► **Repository:** [https://github.com/YourUsername/AbuHudhud-Course-02](https://github.com/RaneemAlhorany/02---Algorithms-Problem-Solving-Level-1)
 
 ---
 
-# 🗄 Database
+## 🧮 Course 03 — Data Structures & Algorithms
+**Description:** Study essential data structures and algorithms used in software engineering and technical interviews.
 
-<details>
-<summary>🗃 SQL Server</summary>
-
-### 📘 SQL Basics
-
-### 📘 Advanced SQL
-
-### 📘 Database Design
-
-</details>
+► **Repository:** https://github.com/YourUsername/AbuHudhud-Course-03
 
 ---
 
-# 🌐 Backend Development
+## 🗄 Course 04 — Database
+**Description:** Learn relational databases, SQL, normalization, indexing, transactions, and database design.
 
-<details>
-<summary>⚙ ASP.NET Core</summary>
-
-### 🔹 C#
-
-### 🔹 ASP.NET Core MVC
-
-### 🔹 Web API
-
-### 🔹 Entity Framework
-
-### 🔹 Authentication
-
-### 🔹 Clean Architecture
-
-</details>
+► **Repository:** https://github.com/YourUsername/AbuHudhud-Course-04
 
 ---
 
-# 🖥 Frontend
+## ⚙️ Course 05 — C# Fundamentals
+**Description:** Learn the C# programming language, its syntax, OOP implementation, collections, delegates, and LINQ.
 
-<details>
-<summary>🎨 Frontend Roadmap</summary>
-
-### HTML
-
-### CSS
-
-### JavaScript
-
-### React
-
-### TypeScript
-
-</details>
+► **Repository:** https://github.com/YourUsername/AbuHudhud-Course-05
 
 ---
 
-# ☁ DevOps
+## 🌐 Course 06 — ASP.NET Core MVC
+**Description:** Build dynamic web applications using ASP.NET Core MVC following best practices.
 
-<details>
-<summary>🐳 DevOps</summary>
-
-### Git
-
-### Docker
-
-### Linux
-
-### CI/CD
-
-</details>
+► **Repository:** https://github.com/YourUsername/AbuHudhud-Course-06
 
 ---
 
-# 📂 Projects
+## 🔌 Course 07 — ASP.NET Core Web API
+**Description:** Learn how to design and build RESTful APIs using ASP.NET Core.
 
-<details>
-<summary>🚀 Practical Projects</summary>
-
-### Project 01
-
-### Project 02
-
-### Project 03
-
-</details>
+► **Repository:** https://github.com/YourUsername/AbuHudhud-Course-07
 
 ---
 
-# 🎯 Interview Preparation
+## 🏛 Course 08 — Clean Architecture
+**Description:** Learn how to organize enterprise applications using Clean Architecture principles.
 
-<details>
-<summary>💼 Interview Questions</summary>
-
-### Algorithms
-
-### OOP
-
-### SQL
-
-### ASP.NET
-
-### System Design
-
-</details>
+► **Repository:** https://github.com/YourUsername/AbuHudhud-Course-08
 
 ---
 
-# 📖 Extra Resources
+## 🔐 Course 09 — Authentication & Authorization
+**Description:** Learn Identity, JWT, Roles, Claims, Cookies, and secure authentication systems.
 
-- Books
-- Documentation
-- Practice Websites
-- Challenges
+► **Repository:** https://github.com/YourUsername/AbuHudhud-Course-09
+
+---
+
+## 🎨 Course 10 — Frontend Fundamentals
+**Description:** Learn HTML, CSS, JavaScript, responsive design, and frontend best practices.
+
+► **Repository:** https://github.com/YourUsername/AbuHudhud-Course-10
+
+---
+
+## ⚛️ Course 11 — React
+**Description:** Learn React, Components, Hooks, Routing, State Management, and API integration.
+
+► **Repository:** https://github.com/YourUsername/AbuHudhud-Course-11
+
+---
+
+## 🐳 Course 12 — DevOps & Deployment
+**Description:** Learn Git, Docker, CI/CD, Linux, deployment, and production environments.
+
+► **Repository:** https://github.com/YourUsername/AbuHudhud-Course-12
+
+---
+
+# 🎯 Goal
+
+Complete every course with:
+
+- 📚 Notes
+- 📝 Summaries
+- 💻 Code Examples
+- 🏋️ Exercises
+- ✅ Solutions
+- 🚀 Practical Projects
+
