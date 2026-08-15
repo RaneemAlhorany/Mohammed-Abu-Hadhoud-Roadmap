@@ -25,7 +25,7 @@ Develop problem-solving skills through algorithmic thinking, flowcharts, pseudoc
 
 ---
 
-## 📘 Course 03 — Coming Soon
+## 📘 Course 03 — Programming-Using-C---Level-1
 
 **Description:**
 This repository contains my solutions and implementations for Algorithms & Problem Solving Level 3.
